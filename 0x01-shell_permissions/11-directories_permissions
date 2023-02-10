@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -d +111 ./
+chown -R  ugo+x ./
