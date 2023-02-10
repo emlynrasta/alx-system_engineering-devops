@@ -5,3 +5,4 @@ shell permissions
 3-new_owner - change the file owner of a file
 4-empty - create an empty file
 5-execute - add execute permissions to file 
+6-multiple_permissions - mutliple permissions to file
