@@ -4,3 +4,4 @@ shell permissions
 2-groups - luat all groups of tge current user
 3-new_owner - change the file owner of a file
 4-empty - create an empty file
+5-execute - add execute permissions to file 
