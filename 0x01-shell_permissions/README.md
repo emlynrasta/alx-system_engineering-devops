@@ -9,3 +9,4 @@ shell permissions
 7-everybody - execute permissions to all
 8-James_Bond - 007 permissions
 9-John_Doe - resemble given permissions
+10-mirror_permissions - reference permissions
