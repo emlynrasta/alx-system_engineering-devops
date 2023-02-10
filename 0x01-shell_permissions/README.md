@@ -7,3 +7,4 @@ shell permissions
 5-execute - add execute permissions to file 
 6-multiple_permissions - mutliple permissions to file
 7-everybody - execute permissions to all
+8-James_Bond - 007 permissions
