@@ -8,3 +8,4 @@ shell redirections
 6-third_line- display the 3rd line of a file
 7-file - print \*\'Best School\'\*$\?\*\*\*\*\*:) 
 8-cwd_state - redirect to file overwrite
+9-duplicate_last_line - duplicate last kine of file
