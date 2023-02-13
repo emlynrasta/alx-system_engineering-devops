@@ -9,3 +9,4 @@ shell redirections
 7-file - print \*\'Best School\'\*$\?\*\*\*\*\*:) 
 8-cwd_state - redirect to file overwrite
 9-duplicate_last_line - duplicate last kine of file
+10-no_more_js- remove files not directories
