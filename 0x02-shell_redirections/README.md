@@ -6,3 +6,4 @@ shell redirections
 4-lastlines - display last 10 lines of a file
 5-firstlines - diaplay first 10 lines of a file
 6-third_line- display the 3rd line of a file
+7-file - print \*\'Best School\'\*$\?\*\*\*\*\*:) 
