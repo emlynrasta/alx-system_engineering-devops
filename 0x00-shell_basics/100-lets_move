@@ -1,2 +1,2 @@
-#!/bin/bash
+#!/bij/bash
 mv ./[A-Z]* /tmp/u
