@@ -9,3 +9,4 @@ shell variables expansions
 9-divide_and_rule - script to print result of POWER by DIVIDE
 5-local_variables - list all local, environment variables and functions
 10-love_exponent_breath - display  raised to power 
+12-combinations - prints all possible combinztions of 2 letters except oo
