@@ -5,3 +5,4 @@ shell variables expansions
 4-global_variables - script that lists environment variables
 6-create_local_variable - creating a new local variable
 7-create_global_variable - create a new global variable
+8-true_knowledge - script that prints the result of integer and value stored in variable\n
