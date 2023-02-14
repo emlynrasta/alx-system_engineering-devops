@@ -4,3 +4,4 @@ shell variables expansions
 2-path - add a path to PATH
 4-global_variables - script that lists environment variables
 6-create_local_variable - creating a new local variable
+7-create_global_variable - create a new global variable
