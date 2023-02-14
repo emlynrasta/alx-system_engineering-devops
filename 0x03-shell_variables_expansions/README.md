@@ -8,3 +8,4 @@ shell variables expansions
 8-true_knowledge - script that prints the result of integer and value stored in variable\n
 9-divide_and_rule - script to print result of POWER by DIVIDE
 5-local_variables - list all local, environment variables and functions
+10-love_exponent_breath - display  raised to power 
