@@ -11,3 +11,4 @@ shell redirections
 9-duplicate_last_line - duplicate last kine of file
 10-no_more_js- remove files not directories
 19-AZ- replacing characters from input \n
+21-reverse - reverses input
