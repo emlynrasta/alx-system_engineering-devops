@@ -12,3 +12,4 @@ shell redirections
 10-no_more_js- remove files not directories
 19-AZ- replacing characters from input \n
 21-reverse - reverses input
+22-users_and_homes - displays users and their directory based on /etc/passwd file
