@@ -13,3 +13,4 @@ shell redirections
 19-AZ- replacing characters from input \n
 21-reverse - reverses input
 22-users_and_homes - displays users and their directory based on /etc/passwd file
+100-empty_casks - finds empty files and directories
