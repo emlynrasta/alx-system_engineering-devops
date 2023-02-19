@@ -1,2 +1,2 @@
 #!/bin/bash
-chowm --from=guillaume betty hello
+sudo chowm --from=guillaume betty hello
